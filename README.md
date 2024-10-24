@@ -1,14 +1,29 @@
 # YouTube Analytics Frontend
 
-A modern web application for analyzing YouTube video metrics and engagement statistics.
+A modern web application for analyzing YouTube video metrics, channel performance, and monetization statistics.
 
 ## 📊 Features
 
-- Video analytics dashboard with real-time metrics
+### Channel Analytics
+- Total channel views tracking
+- Views to subscribers ratio analysis
+- Subscriber growth monitoring
+- Channel performance metrics
+- Geographic distribution analysis
+- Upload frequency tracking
+
+### Monetization Analysis
+- Estimated earnings calculator
+- CPM tracking for different monetization levels:
+  - High Monetization ($10 CPM)
+  - Low Monetization ($4 CPM)
+- Revenue projections and trends
+- Monetization performance metrics
+
+### Video Analytics
 - Video performance tracking including views and engagement rates
 - Subscriber retention analysis
 - Comment engagement monitoring
-- Estimated earnings calculator
 - Random video selector
 - Easy video URL input and analysis
 
@@ -55,6 +70,9 @@ YtAnalytics.com_Frontend/
 ├── public/
 ├── src/
 │   ├── components/
+│   │   ├── Analytics/
+│   │   ├── Monetization/
+│   │   └── Channel/
 │   ├── pages/
 │   ├── utils/
 │   └── App.js
