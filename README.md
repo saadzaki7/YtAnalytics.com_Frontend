@@ -2,6 +2,18 @@
 
 A modern web application for analyzing YouTube video metrics, channel performance, and monetization statistics.
 
+## 🎥 Demo 
+[![Demo Video](https://img.shields.io/badge/Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=hoaRQoU7iuE)
+
+The [demo video](https://www.youtube.com/watch?v=hoaRQoU7iuE) provides a comprehensive walkthrough of YTAnalytics in action, featuring:
+- Live analysis of a trending YouTube video
+- Real-time metric extraction and processing
+- Demonstration of key features:
+  - Instant video statistics analysis
+  - Channel performance metrics
+  - Engagement rate calculations
+  - Geographic viewer distribution
+
 ## 📊 Features
 
 ### Channel Analytics
